@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  font-size: 150%;
+}
+
+h1 {
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color:#66BFBF;
+  font-family: 'Montserrat', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 130px;
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'Montserrat', serif;
+}
+
+a{
+  color: #11999E;
+}
+
+p {
+  color:#40514E;
+}
+
+hr {
+  border-style: dotted none none none;
+  color:#EAF6F6;
+  width:5%;
+  border-width: 10px;
+  margin-top: 150px;
+}
+
+.mountin {
+  width:750px;
+}
+
+.skill-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills-image {
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.java-image {
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.gym-image {
+  width:260px;
+  margin-top: 30px;
+}
+
+.top-container {
+  border-bottom: 100px;
+  background-color:#E4F9F5;
+  position: relative;
+  padding-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 100px;
+  margin-top: 150px;
+}
+
+.footer-link {
+  position: relative;
+  top: 50px;
+  margin: 25px;
+  text-decoration: none;
+}
+
+.copyright {
+  color:#EAF6F6;
+  position:relative;
+  top:80px;
+  font-size: 80%;
+}
+.btn {
+  position: relative;
+  color:white;
+  background-color: #66BFBF;
+  text-decoration: none;
+  border-radius: 9px;
+  font-size: 120%;
+  padding: 15px;
+  top:50px;
+
+}
